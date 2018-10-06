@@ -15,12 +15,7 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
+### Deploy to server
 ```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
+sh deploy.sh prod
 ```
